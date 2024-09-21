@@ -1,0 +1,10 @@
+@ApiGateway_HostAddress = http://localhost:5229
+
+### Test GetDataFromTableWithFilter API
+POST http://localhost:5229/getDataFromTableWithFilter
+Content-Type: application/json
+
+{
+  "TableName": "YourTableName",
+  "Filter": "YourFilter"
+}

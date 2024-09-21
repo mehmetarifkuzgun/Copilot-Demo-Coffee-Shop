@@ -1,0 +1,22 @@
+version: '3.4'
+services:
+
+  apigateway:
+    image: barut/apigateway
+    ports:
+      - "5229:8080"
+    environment:
+      - BACKEND_URL=http://recommendation:8080/api/getDataFromTableWithFilter
+    networks:
+      - mynetwork
+
+  recommendation:
+    image: barut/recommendation
+    ports:
+      - "5190:8080"
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+    driver: bridge

@@ -1,0 +1,11 @@
+@RecommendationService_HostAddress = http://localhost:5190
+
+### Test GetDataFromTableWithFilter API
+### POST http://localhost:5190/api/GetDataFromTableWithFilter
+POST http://localhost:5190/api/GetDataFromTableWithFilter
+Content-Type: application/json
+
+{
+  "TableName": "restaurant.branch",
+  "Filter": ""
+}

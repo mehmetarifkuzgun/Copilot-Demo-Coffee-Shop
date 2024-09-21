@@ -1,0 +1,7 @@
+C:\Codes\Sunum\SampleApp\APP02\src\BackEnd\RecommendationService\obj\Debug\net8.0\RecommendationService.csproj.AssemblyReference.cache
+C:\Codes\Sunum\SampleApp\APP02\src\BackEnd\RecommendationService\obj\Debug\net8.0\RecommendationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Sunum\SampleApp\APP02\src\BackEnd\RecommendationService\obj\Debug\net8.0\RecommendationService.AssemblyInfoInputs.cache
+C:\Codes\Sunum\SampleApp\APP02\src\BackEnd\RecommendationService\obj\Debug\net8.0\RecommendationService.AssemblyInfo.cs
+C:\Codes\Sunum\SampleApp\APP02\src\BackEnd\RecommendationService\obj\Debug\net8.0\RecommendationService.csproj.CoreCompileInputs.cache
+C:\Codes\Sunum\SampleApp\APP02\src\BackEnd\RecommendationService\obj\Debug\net8.0\RecommendationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Codes\Sunum\SampleApp\APP02\src\BackEnd\RecommendationService\obj\Debug\net8.0\RecommendationService.MvcApplicationPartsAssemblyInfo.cache

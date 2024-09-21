@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FrontEnd.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FrontEnd.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\images\\image-01.jpg",
+      "PackagePath": "staticwebassets\\images\\image-01.jpg"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\images\\image-02.jpg",
+      "PackagePath": "staticwebassets\\images\\image-02.jpg"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\images\\image-03.jpg",
+      "PackagePath": "staticwebassets\\images\\image-03.jpg"
+    },
+    {
+      "Id": "C:\\Codes\\Sunum\\SampleApp\\APP02\\src\\FrontEnd\\wwwroot\\images\\istockphoto-1018141890-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\images\\istockphoto-1018141890-1024x1024.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FrontEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FrontEnd.props",
+      "PackagePath": "build\\FrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FrontEnd.props",
+      "PackagePath": "buildMultiTargeting\\FrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FrontEnd.props",
+      "PackagePath": "buildTransitive\\FrontEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

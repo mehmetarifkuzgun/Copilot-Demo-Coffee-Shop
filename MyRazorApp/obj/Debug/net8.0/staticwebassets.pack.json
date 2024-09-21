@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyRazorApp.3qllje9i0z.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\about-3.jpg",
+      "PackagePath": "staticwebassets\\images\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\about-4.jpg",
+      "PackagePath": "staticwebassets\\images\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\americano.jpg",
+      "PackagePath": "staticwebassets\\images\\americano.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-hero.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\cappuccino.jpg",
+      "PackagePath": "staticwebassets\\images\\cappuccino.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\close-up-of-barista-preparing-coffee-in-a-coffee-shop-OCMF00271.jpg",
+      "PackagePath": "staticwebassets\\images\\close-up-of-barista-preparing-coffee-in-a-coffee-shop-OCMF00271.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\depositphotos_19354785-stock-photo-coffee.jpg",
+      "PackagePath": "staticwebassets\\images\\depositphotos_19354785-stock-photo-coffee.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\espresso.jpg",
+      "PackagePath": "staticwebassets\\images\\espresso.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\hero.png",
+      "PackagePath": "staticwebassets\\images\\hero.png"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\icon.png",
+      "PackagePath": "staticwebassets\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\image1.jpg",
+      "PackagePath": "staticwebassets\\images\\image1.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\image2.jpg",
+      "PackagePath": "staticwebassets\\images\\image2.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\image3.jpg",
+      "PackagePath": "staticwebassets\\images\\image3.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\latte.jpg",
+      "PackagePath": "staticwebassets\\images\\latte.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\machine.jpg",
+      "PackagePath": "staticwebassets\\images\\machine.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\main.jpg",
+      "PackagePath": "staticwebassets\\images\\main.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-6.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-7.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-8.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\about-1 (2).jpg",
+      "PackagePath": "staticwebassets\\images\\old\\about-1 (2).jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\old\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\old\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\about-3.jpg",
+      "PackagePath": "staticwebassets\\images\\old\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\about-4.jpg",
+      "PackagePath": "staticwebassets\\images\\old\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\americano.jpg",
+      "PackagePath": "staticwebassets\\images\\old\\americano.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\cappuccino.jpg",
+      "PackagePath": "staticwebassets\\images\\old\\cappuccino.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\espresso.jpg",
+      "PackagePath": "staticwebassets\\images\\old\\espresso.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\hero.png",
+      "PackagePath": "staticwebassets\\images\\old\\hero.png"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\latte (2).jpg",
+      "PackagePath": "staticwebassets\\images\\old\\latte (2).jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\latte.jpg",
+      "PackagePath": "staticwebassets\\images\\old\\latte.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\main.jpg",
+      "PackagePath": "staticwebassets\\images\\old\\main.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\old\\turkcoffee.jpg",
+      "PackagePath": "staticwebassets\\images\\old\\turkcoffee.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\packet.jpg",
+      "PackagePath": "staticwebassets\\images\\packet.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\packet2.jpg",
+      "PackagePath": "staticwebassets\\images\\packet2.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\turkcoffee.jpg",
+      "PackagePath": "staticwebassets\\images\\turkcoffee.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\images\\video.jpg",
+      "PackagePath": "staticwebassets\\images\\video.jpg"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyRazorApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyRazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyRazorApp.props",
+      "PackagePath": "build\\MyRazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyRazorApp.props",
+      "PackagePath": "buildMultiTargeting\\MyRazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyRazorApp.props",
+      "PackagePath": "buildTransitive\\MyRazorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

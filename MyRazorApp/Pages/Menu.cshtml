@@ -1,0 +1,227 @@
+﻿@page
+@model MyRazorApp.Pages.MenuModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<!-- Menu Start -->
+<div class="container-xxl py-5 bg-white" style="opacity: 0.8;">
+    <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+<h5 class="section-title ff-secondary text-center text-primary fw-normal">Kahve Menüsü</h5>
+<h1 class="mb-5">En Çok Sevilen Ürünler</h1>
+</div>
+<div class="tab-class text-center wow fadeInUp" data-wow-delay="0.1s">
+    <ul class="nav nav-pills d-inline-flex justify-content-center border-bottom mb-5 bg-white">
+        <li class="nav-item">
+            <a class="d-flex align-items-center text-start mx-3 ms-0 pb-3 active" data-bs-toggle="pill" href="#tab-1">
+                <i class="fa fa-coffee fa-2x text-primary"></i>
+                <div class="ps-3">
+                    <h6 class="mt-n1 mb-0">Kahveler</h6>
+                </div>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-2">
+                <i class="fa fa-seedling fa-2x text-primary"></i>
+                <div class="ps-3">
+                    <h6 class="mt-n1 mb-0">Çekirdek Kahveler</h6>
+                </div>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-3">
+                <i class="fa fa-blender fa-2x text-primary"></i>
+                <div class="ps-3">
+                    <h6 class="mt-n1 mb-0">Kahve Makineleri</h6>
+                </div>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-4">
+                <i class="fa fa-mug-hot fa-2x text-primary"></i>
+                <div class="ps-3">
+                    <h6 class="mt-n1 mb-0">Sıcak İçecekler</h6>
+                </div>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-5">
+                <i class="fa fa-cookie-bite fa-2x text-primary"></i>
+                <div class="ps-3">
+                    <h6 class="mt-n1 mb-0">Tatlılar</h6>
+                </div>
+            </a>
+        </li>
+    </ul>
+        <div class="tab-content">
+            <div id="tab-1" class="tab-pane fade show p-0 active">
+                <div class="row g-4">
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/espresso.jpg" alt="Espresso" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>Espresso</span>
+                                    <span class="text-primary">₺30.00</span>
+                                </h5>
+                                <small class="fst-italic">Yoğun ve aromatik kahve</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/latte.jpg" alt="Latte" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>Latte</span>
+                                    <span class="text-primary">₺40.00</span>
+                                </h5>
+                                <small class="fst-italic">Sütlü ve yumuşak kahve</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/cappuccino.jpg" alt="Cappuccino" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>Cappuccino</span>
+                                    <span class="text-primary">₺35.00</span>
+                                </h5>
+                                <small class="fst-italic">Köpüklü ve lezzetli kahve</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/americano.jpg" alt="Americano" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>Americano</span>
+                                    <span class="text-primary">₺30.00</span>
+                                </h5>
+                                <small class="fst-italic">Sade ve güçlü kahve</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/turkcoffee.jpg" alt="Americano" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>Türk Kahvesi</span>
+                                    <span class="text-primary">₺25.00</span>
+                                </h5>
+                                <small class="fst-italic">Geleneksel yoğun aromalı klasik kahve</small>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Diğer kahve çeşitleri burada listelenebilir -->
+                </div>
+            </div>
+            <div id="tab-2" class="tab-pane fade show p-0">
+                <div class="row g-4">
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/packet.jpg" alt="Arabica" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>Arabica</span>
+                                    <span class="text-primary">₺50.00</span>
+                                </h5>
+                                <small class="fst-italic">Yumuşak içimli ve aromatik çekirdek kahve</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/packet2.jpg" alt="Robusta" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>Robusta</span>
+                                    <span class="text-primary">₺45.00</span>
+                                </h5>
+                                <small class="fst-italic">Güçlü ve yoğun aromalı çekirdek kahve</small>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+            </div>
+            <div id="tab-3" class="tab-pane fade show p-0">
+                <div class="row g-4">
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/machine.jpg" alt="Espresso Makinesi" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>Espresso Makinesi</span>
+                                    <span class="text-primary">₺1500.00</span>
+                                </h5>
+                                <small class="fst-italic">Profesyonel espresso makinesi</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/french-press.jpg" alt="French Press" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>French Press</span>
+                                    <span class="text-primary">₺200.00</span>
+                                </h5>
+                                <small class="fst-italic">Kolay ve pratik kahve demleme</small>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Diğer makineler burada listelenebilir -->
+                </div>
+            </div>
+            <div id="tab-4" class="tab-pane fade show p-0">
+                <div class="row g-4">
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/tea.jpg" alt="Çay" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>Çay</span>
+                                    <span class="text-primary">₺20.00</span>
+                                </h5>
+                                <small class="fst-italic">Taze demlenmiş çay</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/hot-chocolate.jpg" alt="Sıcak Çikolata" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>Sıcak Çikolata</span>
+                                    <span class="text-primary">₺35.00</span>
+                                </h5>
+                                <small class="fst-italic">Zengin ve kremalı sıcak çikolata</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="d-flex align-items-center">
+                            <img class="flex-shrink-0 img-fluid rounded" src="images/salep.jpg" alt="Salep" style="width: 80px;">
+                            <div class="w-100 d-flex flex-column text-start ps-4">
+                                <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                    <span>Salep</span>
+                                    <span class="text-primary">₺30.00</span>
+                                </h5>
+                                <small class="fst-italic">Sıcak ve baharatlı salep</small>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Diğer sıcak içecekler burada listelenebilir -->
+                </div>
+                
+            </div>
+            <div id="tab-5" class="tab-pane fade show p-0">
+            <!-- Tatlılar içeriği buraya gelecek -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Menu End -->

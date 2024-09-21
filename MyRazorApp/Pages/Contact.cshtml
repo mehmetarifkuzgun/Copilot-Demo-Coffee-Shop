@@ -1,0 +1,46 @@
+﻿@page
+@model MyRazorApp.Pages.ContactModel
+
+@{
+}
+
+<div>
+    <div class="row-cols-md-1 bg-dark d-flex align-items-center" style="opacity: 0.8;">
+        <div class="p-5 wow fadeInUp" data-wow-delay="0.2s">
+            <h1 class="section-title ff-secondary text-start text-primary fw-normal">Size ulaşalım</h1>
+            <br />
+            <br />
+            <div class="col-md-12">
+                <form method="post">
+                    <div>
+                        <div class="col-md-12">
+                            <div>
+                                <input class="form-control" name="name" placeholder="Ad Soyad..." /><br />
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div>
+                                <input class="form-control" name="phone" placeholder="Telefon..." /><br />
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div>
+                                <input class="form-control" name="email" placeholder="E-mail..." /><br />
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div>
+                                <textarea class="form-control" name="text" placeholder="Size nasıl yardımcı olabiliriz?" style="height:150px;"></textarea><br />
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div>
+                                <input class="btn btn-primary" type="submit" value="Gönder" /><br /><br />
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

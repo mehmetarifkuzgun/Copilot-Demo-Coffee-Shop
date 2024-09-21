@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBruw4sgN6A=",
+  "success": true,
+  "projectFilePath": "C:\\demos\\demo\\Sample\\Sample\\APP02\\src\\MyRazorApp\\MyRazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-mkuzgun\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\v-mkuzgun\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\v-mkuzgun\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

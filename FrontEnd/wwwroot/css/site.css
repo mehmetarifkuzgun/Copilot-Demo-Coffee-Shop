@@ -1,0 +1,16 @@
+.home-page {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* Tüm ekran yüksekliği */
+    background: url('/images/istockphoto-1018141890-1024x1024.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.highlight, .description, .chefs-picks {
+    position: relative;
+    z-index: 1; /* İçerikleri arka planın üstüne yerleştirmek için */
+    background: rgba(255, 255, 255, 0.8); /* İçeriklerin arka planını yarı saydam yapmak için */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}

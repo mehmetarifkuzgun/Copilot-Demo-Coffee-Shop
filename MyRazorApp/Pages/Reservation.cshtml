@@ -1,0 +1,108 @@
+﻿@page
+@model MyRazorApp.Pages.ReservationModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div class="col-md-12 bg-dark d-flex align-items-center" style="opacity: 0.8;">
+        <div class="p-5 wow fadeInUp" data-wow-delay="0.2s">
+            <h5 class="section-title ff-secondary text-start text-primary fw-normal">Reservasyon</h5>
+            <h1 class="text-white mb-4">Online Şube Seçimi</h1>
+            <form method="post">
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <div class="form-floating">
+                            <input type="text" class="form-control" id="name" placeholder="Your Name">
+                            <label for="name">Ad Soyad</label>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-floating">
+                            <input type="email" class="form-control" id="email" placeholder="Your Email">
+                            <label for="email">Email</label>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-floating date" id="date3" data-target-input="nearest">
+                            <input type="text" class="form-control datetimepicker-input" id="datetime" placeholder="Date & Time" data-target="#date3" data-toggle="datetimepicker" />
+                            <label for="datetime">Gün ve Saat</label>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-floating">
+                            <select class="form-select" id="select1">
+                                <option value="1">Bir Kişi</option>
+                                <option value="2">İki Kişi</option>
+                                <option value="3">Üç Kişi</option>
+                            </select>
+                            <label for="select1">Kişi Adedi</label>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="form-floating">
+                            <select class="form-select" id="Branch" name="Branch" onchange="updateMap()">
+                                @foreach (var branch in Model.Branches)
+                                {
+                                    <option value="@branch.RestaurantId" data-lat="@branch.Latitude" data-lng="@branch.Longitude">@branch.Name - @branch.City, @branch.District</option>
+                                }
+                            </select>
+                            <label for="select1">Şube Seçimi</label>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="form-floating">
+                            <textarea class="form-control" placeholder="Special Request" id="message" style="height: 100px"></textarea>
+                            <label for="message">Özel İstek</label>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <button class="btn btn-primary w-100 py-3" type="submit" asp-page-handler="MakeReservation">Onayla</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div id="map" style="height: 400px; width: 800px; display: none;"></div>
+
+</div>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCV8KtEfwOKMkiKjmywa5N748h1rXtU_A8&callback=initMap" async defer></script>
+
+<script>
+    var map;
+    var marker;
+
+    function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+            center: new google.maps.LatLng(41.0082, 28.9784), // İstanbul koordinatları
+            zoom: 10,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+        marker = new google.maps.Marker({
+            position: { lat: 41.0082, lng: 28.9784 },
+            map: map,
+            draggable: true
+        });
+        google.maps.event.addListener(marker, 'dragend', function (event) {
+            document.getElementById('Location').value = event.latLng.lat() + ', ' + event.latLng.lng();
+        });
+    }
+
+    function updateMap() {
+        var select = document.getElementById('Branch');
+        var selectedOption = select.options[select.selectedIndex];
+        var lat = parseFloat(selectedOption.getAttribute('data-lat'));
+        var lng = parseFloat(selectedOption.getAttribute('data-lng'));
+        var newPosition = new google.maps.LatLng(lat, lng);
+        map.setCenter(newPosition);
+        map.setZoom(17);
+        marker.setPosition(newPosition);
+
+        // Haritayı göster
+        document.getElementById('map').style.display = 'block';
+        document.getElementById('confirmButton').style.display = 'block';
+    }
+
+</script>

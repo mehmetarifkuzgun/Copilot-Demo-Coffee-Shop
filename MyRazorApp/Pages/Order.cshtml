@@ -1,0 +1,77 @@
+﻿@page
+@model MyRazorApp.Pages.OrderModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<section class="shopping-cart dark">
+    <div class="container">
+        <div class="block-heading">
+            <h2>Menu Seçimi</h2>
+            <p>Lütfen tercih ettiğiniz restoranda hazırlamamızı istediğiniz yemeği seçiniz.</p>
+        </div>
+        <div class="content">
+            <div class="row">
+                <div class="col-md-12 col-lg-8">
+                    <div class="items">
+                        @foreach (var item in Model.MenuItems)
+                        {
+                            <div class="product">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <img class="img-fluid mx-auto d-block image" src="@item.Img">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="info">
+                                            <div class="row">
+                                                <div class="col-md-5 product-name">
+                                                    <div class="product-name">
+                                                        <div class="product-info">
+                                                            <div>Yemek: <span class="value">@item.Name</span></div>
+                                                            <div>Açıklama: <span class="value">@item.Description</span></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 quantity">
+                                                    <label for="quantity-@item.MenuItemId">Adet:</label>
+                                                    <input id="quantity-@item.MenuItemId" type="number" value="0" min="0" class="form-control quantity-input" data-price="@item.Price" onchange="updateSummary()">
+                                                </div>
+                                                <div class="col-md-3 price">
+                                                    <span>@item.Price TL</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="col-md-12 col-lg-4">
+                    <div class="summary">
+                        <h3>Sipariş Tutarı</h3>
+                        <div class="summary-item"><span class="text">Ödenecek Tutar</span><span class="price" id="total">0 TL</span></div>
+                        <button type="button" class="btn btn-primary btn-lg btn-block">Siparişi Tamamla</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    function updateSummary() {
+        let subtotal = 0;
+        const quantityInputs = document.querySelectorAll('.quantity-input');
+        quantityInputs.forEach(input => {
+            const price = parseFloat(input.getAttribute('data-price'));
+            const quantity = parseInt(input.value);
+            subtotal += price * quantity;
+        });
+
+        document.getElementById('total').textContent = `${subtotal} TL`;
+    }
+
+    // Sayfa yüklendiğinde summary'yi güncelle
+    document.addEventListener('DOMContentLoaded', updateSummary);
+</script>
